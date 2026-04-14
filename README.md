@@ -21,7 +21,7 @@ Per far funzionare l'app sul tuo computer, segui queste istruzioni:
 L'IA è stata fondamentale per questo progetto nei seguenti modi:
 
 * **Risoluzione Bug**: Mi ha aiutato a pulire gli indirizzi (URL) necessari per prendere i dati dal web, eliminando simboli sbagliati che bloccavano le richieste.
-* **Migliorare la ricerca**: Mi ha suggerito di aggiungere la funzione (encodeURIComponent), che serve a far funzionare la ricerca anche per le città che hanno spazi nel nome, come "Reggio Emilia" o "New York".
+* **Migliorare la ricerca**: Mi ha suggerito di aggiungere la funzione `encodeURIComponent`, che serve a far funzionare la ricerca anche per le città che hanno spazi nel nome, come "Reggio Emilia" o "New York".
 * **Localizzazione**: Mi ha fornito la "mappa" per trasformare i codici numerici tecnici (WMO) in descrizioni semplici e amichevoli in italiano.
 
 ## 📂 Struttura dei File
